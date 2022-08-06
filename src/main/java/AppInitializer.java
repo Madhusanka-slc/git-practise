@@ -20,6 +20,13 @@ public class AppInitializer extends Application {
         Scene scene = new Scene(load);
         primaryStage.setScene(scene);
         primaryStage.show();
+        /*
+        *
+        *
+        * try to push
+        *
+        * */
+
 
     }
 }
